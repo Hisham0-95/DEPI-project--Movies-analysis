@@ -32,6 +32,8 @@ Since the instructor didn’t specify a required dataset, we intentionally chose
 <li> <b>Action</b> is the most favored movie genre among the audience, and it also generates the highest revenue.</li>
 <li> History and War movies tend to have the <b>longest runtimes</b>, which may <b>not</b> appeal to viewers who prefer shorter, fast-paced content.</li>
 <li> A high budget <b>does not always</b> guarantee high revenue. Therefore, directors should carefully study audience preferences and market trends before investing in a film.</li>
-<li> Action and Science Fiction are the top-performing genres in terms of revenue generation, making them <b>strong choices for commercial success.</b> </li>
+<li> Action and Science Fiction are the top-performing genres in terms of revenue generation, making them <b>strong choices for commercial success.</b> </li> <br>
+
+![Image](https://github.com/user-attachments/assets/783890ba-5825-49b5-a799-5182501b5a16)
 
   
