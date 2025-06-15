@@ -1,6 +1,9 @@
-# Tabluea Dashbord link
+# Tabluea Dashbord
 ![Image](https://github.com/user-attachments/assets/2915286e-f8a4-4887-8ab1-e619039539e8) <br>
+
+# Link
 https://public.tableau.com/app/profile/hisham.mohammed1563/viz/DEPIFinalVisualProject/Analysis
+
 # DEPI Graduation Project
 This was one of the most impactful projects I completed with my teammates during the DEPI program. It was an end-to-end data analysis project — from data selection and cleaning to visualization and dashboard design.<br> We were honored to be selected among the **Top 20** teams and invited to the DEPI Graduates Event, organized by Next Academy and the Ministry Of Communication, in recognition of our outstanding project work.
 
