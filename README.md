@@ -8,7 +8,7 @@ https://public.tableau.com/app/profile/hisham.mohammed1563/viz/DEPIFinalVisualPr
 This was one of the most impactful projects I completed with my teammates during the DEPI program. It was an end-to-end data analysis project — from data selection and cleaning to visualization and dashboard design.<br> We were honored to be selected among the **Top 20** teams and invited to the DEPI Graduates Event, organized by Next Academy and the Ministry Of Communication, in recognition of our outstanding project work.
 
 # Project Goal
-**To practice real-world collaboration and apply all the data analysis steps:** <br>
+**To analyze TMDB movie data and identify key success factors that drive revenue and audience engagement** <br>
 1- Data cleaning <br>
 2- Data transformation  <br>
 3- Visualization  <br>
