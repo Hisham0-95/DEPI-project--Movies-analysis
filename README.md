@@ -1,4 +1,4 @@
-# Tabluea Dashbord
+# Tableau Dashboard
 ![Image](https://github.com/user-attachments/assets/2915286e-f8a4-4887-8ab1-e619039539e8) <br>
 
 # Link
@@ -20,7 +20,7 @@ Since the instructor didn’t specify a required dataset, we intentionally chose
 # Tools Used 
 **Excel**: Power Query, Power Pivot for cleaning and data modeling   <br>
 **Python**: pandas, random libraries for exploration, preprocessing and fixing null values problem  <br>
-**tablue:** For building insightful and visually appealing dashboards.  <br>
+**Tableau:** For building insightful and visually appealing dashboards.  <br>
 
 # Learning Outcomes
 - Hands-on experience with unstructured, real-world data  
